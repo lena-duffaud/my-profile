@@ -64,8 +64,8 @@ h2 {
 	text-decoration: none;
 } 
 
-.btn-blue:hover {
-	background-color: black;
+.btn-blue: hover {
+	background-color: #091413;
 	color: #F2EAE0;
 }
 
